@@ -1,0 +1,16 @@
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.exe
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.deps.json
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.runtimeconfig.json
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.runtimeconfig.dev.json
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.dll
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\ref\bulbulator.dll
+C:\Users\lidka\source\repos\bulbulator\bulbulator\bin\Debug\net5.0\bulbulator.pdb
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.csproj.AssemblyReference.cache
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.AssemblyInfoInputs.cache
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.AssemblyInfo.cs
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.csproj.CoreCompileInputs.cache
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.dll
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\ref\bulbulator.dll
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.pdb
+C:\Users\lidka\source\repos\bulbulator\bulbulator\obj\Debug\net5.0\bulbulator.genruntimeconfig.cache
